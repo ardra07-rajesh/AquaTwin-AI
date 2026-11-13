@@ -1,0 +1,21 @@
+{
+  "warning": "Bundled data is synthetic. Metrics do not establish field accuracy.",
+  "evaluation": "Fixed 80/20 hold-out split with random_state=42; metrics describe synthetic data only.",
+  "models": {
+    "random_forest": {
+      "MAE": 0.3091013,
+      "RMSE": 0.416941203043339,
+      "R2": 0.9403560239831338
+    },
+    "extra_trees": {
+      "MAE": 0.22552728000000036,
+      "RMSE": 0.3191077928003644,
+      "R2": 0.9650625039084796
+    },
+    "hist_gradient": {
+      "MAE": 0.17665513845631803,
+      "RMSE": 0.249838287590334,
+      "R2": 0.9785841682790845
+    }
+  }
+}

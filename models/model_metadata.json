@@ -1,0 +1,15 @@
+{
+  "artifact": "legacy_water_model.joblib",
+  "model_type": "HistGradientBoostingRegressor",
+  "trained_at_utc": "2026-11-05T13:30:47.444629+00:00",
+  "python_version": "3.13.5",
+  "scikit_learn_version": "1.8.0",
+  "joblib_version": "1.5.3",
+  "training_data": "data/raw/legacy_irrigation_dataset.csv",
+  "training_data_sha256": "fc1b365aa65457aa68503e426e7d092df115b3ea9a5d597f90cc865474c1b670",
+  "training_rows": 2400,
+  "holdout_rows": 600,
+  "target": "water_need_mm",
+  "synthetic_data": true,
+  "field_validated": false
+}

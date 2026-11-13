@@ -1,0 +1,32 @@
+{
+  "Lettuce": {
+    "kc": 0.95,
+    "daily_reference_mm": 4.0,
+    "sensitivity": 1.0
+  },
+  "Tomato": {
+    "kc": 1.05,
+    "daily_reference_mm": 4.5,
+    "sensitivity": 0.9
+  },
+  "Spinach": {
+    "kc": 0.9,
+    "daily_reference_mm": 3.5,
+    "sensitivity": 0.95
+  },
+  "Basil": {
+    "kc": 0.85,
+    "daily_reference_mm": 3.2,
+    "sensitivity": 0.8
+  },
+  "Maize": {
+    "kc": 1.0,
+    "daily_reference_mm": 5.0,
+    "sensitivity": 0.85
+  },
+  "Other": {
+    "kc": 1.0,
+    "daily_reference_mm": 4.0,
+    "sensitivity": 0.8
+  }
+}
